@@ -53,7 +53,7 @@ Here's <a href="https://rahulkumarjhamtani.github.io/">My Portfolio</a>
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumarjhamtani&layout=compact)](https://github.com/rahulkumarjhamtani/rahulkumarjhamtani)
-
+![](https://komarev.com/ghpvc/?username=rahulkumarjhamtani&color=blue)
 <br>
 
 <h2>Thank You 😃 </h2> 
