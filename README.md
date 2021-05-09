@@ -48,6 +48,10 @@ Here's <a href="https://rahulkumarjhamtani.github.io/">My Portfolio</a>
 
 <br>
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=himanshurajora)  
+
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumarjhamtani&layout=compact)](https://github.com/rahulkumarjhamtani/rahulkumarjhamtani)
 
 <br>
