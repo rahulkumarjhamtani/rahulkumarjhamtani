@@ -23,7 +23,7 @@ Here's <a href="https://rahulkumarjhamtani.github.io/">My Portfolio</a>
 
 <br>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rahulkumarjhamtani)  
+![GitHub streak stats](https://github-readme-stats.vercel.app/api?username=rahulkumarjhamtani&show_icons=true&theme=radical)
 
 <br>
 
@@ -32,4 +32,4 @@ Here's <a href="https://rahulkumarjhamtani.github.io/">My Portfolio</a>
 
 
 
-<h2>Starring repos will be appreciated as your ❤️ for me. 😃 </h2> 
+<h2>Thank You 😃 </h2> 
