@@ -19,6 +19,10 @@ Here's <a href="https://rahulkumarjhamtani.github.io/">My Portfolio</a>
 
 <br>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=rahulkumarjhamtani)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
+
 [![GitHub metrics](https://metrics.lecoq.io/rahulkumarjhamtani)](https://metrics.lecoq.io/rahulkumarjhamtani)  
 
 <br>
