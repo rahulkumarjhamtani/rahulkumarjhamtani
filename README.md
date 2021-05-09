@@ -15,14 +15,6 @@ So Far I Have Learned C, C++, Python, PHP, SQL, HTML, CSS, JavaScript, Java etc.
 <br>
 Here's <a href="https://rahulkumarjhamtani.github.io/">My Portfolio</a>
 
-
-[![GitHub metrics](https://metrics.lecoq.io/rahulkumarjhamtani)](https://metrics.lecoq.io/rahulkumarjhamtani)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rahulkumarjhamtani) 
-
-
-![Profile views](https://gpvc.arturio.dev/rahulkumarjhamtani)   
-
 <hr>
 
 <a href="https://github.com/rahulkumarjhamtani/rahulkumarjhamtani"> 
