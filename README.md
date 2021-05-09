@@ -48,7 +48,7 @@ Here's <a href="https://rahulkumarjhamtani.github.io/">My Portfolio</a>
 
 <br>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=himanshurajora)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rahulkumarjhamtani)  
 
 <br>
 
