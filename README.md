@@ -15,10 +15,6 @@ So Far I Have Learned C, C++, Python, PHP, SQL, HTML, CSS, JavaScript, Java etc.
 <br>
 Here's <a href="https://rahulkumarjhamtani.github.io/">My Portfolio</a>
 
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumarjhamtani)](https://github.com/rahulkumarjhamtani/rahulkumarjhamtani)
-
 <hr>
 
 <br>
