@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-### I Am Himanshu Jangid, हिमांशु जांगिड़
+### I Am Rahul Kumar Jhamtani
 
-#### Founder Of Vedik Cyber Forces, A Team Of Enthusiastic Computer Science Engineers 
+#### Member Of Vedik Cyber Forces, A Team Of Enthusiastic Computer Science Engineers 
 #### I Am A Student At <a href="https://anandice.ac.in">Anand International College Of Engineering</a> In Computer Science Engineeing Branch
 
 <br>
@@ -10,8 +10,6 @@
 My Goals And Objectives Are Christal Clear. This Helps Me To Work More Faster And Efficiently.
 I Improve Myself Everyday In Terms Of A Good Character And In Time Management Skills.
 I Like Do Things As Fast As Possible So That They Doesn't Take More Of My Time.
-<br>
-I Started My Journey With Computers In 2017.
 <br>
 Currently Working On Technologies Like Node JS and AI.
 I have Worked On Many Projects Like :
@@ -23,18 +21,15 @@ And Currently I Am Working On 2 Projects : VCFProject-Node And Sword Engine
 
 So Far I Have Learned C, C++, Python, Arduino, C#, HTML, SASS, CSS, JavaScript, Java etc.
 <br>
-Here's <a href="https://vcfstudio.in/members/himanshu">My Portfolio</a>
+Here's <a href="https://vcfstudio.in/members/rahul">My Portfolio</a>
 
 
+[![GitHub metrics](https://metrics.lecoq.io/himanshurajora)](https://metrics.lecoq.io/rahulkumarjhamtani)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=himanshurajora)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![GitHub metrics](https://metrics.lecoq.io/himanshurajora)](https://metrics.lecoq.io/himanshurajora)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=himanshurajora) 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rahulkumarjhamtani) 
 
 
-![Profile views](https://gpvc.arturio.dev/himanshurajora)   
+![Profile views](https://gpvc.arturio.dev/rahulkumarjhamtani)   
 <!--
 **himanshurajora/himanshurajora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -53,12 +48,12 @@ Here are some ideas to get you started:
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=himanshurajora)](https://github.com/ryo-ma/github-profile-trophy)
 <hr>
 
-<a href="https://github.com/himanshurajora/himanshurajora"> 
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshurajora&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Himanshu's GitHub Stats" width="400" /> </a>
+<a href="https://github.com/rahulkumarjhamtani/rahulkumarjhamtani"> 
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulkumarjhamtani&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Himanshu's GitHub Stats" width="400" /> </a>
 
-[![GitHub metrics](https://metrics.lecoq.io/himanshurajora)](https://metrics.lecoq.io/himanshurajora)  
+[![GitHub metrics](https://metrics.lecoq.io/himanshurajora)](https://metrics.lecoq.io/rahulkumarjhamtani)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=himanshurajora)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rahulkumarjhamtani)  
 
 
 
