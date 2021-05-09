@@ -24,7 +24,7 @@ So Far I Have Learned C, C++, Python, Arduino, C#, HTML, SASS, CSS, JavaScript, 
 Here's <a href="https://vcfstudio.in/members/rahul">My Portfolio</a>
 
 
-[![GitHub metrics](https://metrics.lecoq.io/himanshurajora)](https://metrics.lecoq.io/rahulkumarjhamtani)
+[![GitHub metrics](https://metrics.lecoq.io/rahulkumarjhamtani)](https://metrics.lecoq.io/rahulkumarjhamtani)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rahulkumarjhamtani) 
 
