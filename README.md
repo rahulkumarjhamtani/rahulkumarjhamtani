@@ -3,7 +3,7 @@
 ### I Am Rahul Kumar Jhamtani
 
 #### Member Of Vedik Cyber Forces, A Team Of Enthusiastic Computer Science Engineers 
-#### I Am A Student At <a href="https://anandice.ac.in">Anand International College Of Engineering</a> In Computer Science Engineeing Branch
+#### I Am A Student At <a href="https://anandice.ac.in">Anand International College Of Engineering</a> pursuing Computer Science Engineeing Branch.
 
 <br>
 
@@ -21,7 +21,7 @@ And Currently I Am Working On 2 Projects : VCFProject-Node And Sword Engine
 
 So Far I Have Learned C, C++, Python, Arduino, C#, HTML, SASS, CSS, JavaScript, Java etc.
 <br>
-Here's <a href="https://vcfstudio.in/members/rahul">My Portfolio</a>
+Here's <a href="https://rahulkumarjhamtani.github.io/">My Portfolio</a>
 
 
 [![GitHub metrics](https://metrics.lecoq.io/rahulkumarjhamtani)](https://metrics.lecoq.io/rahulkumarjhamtani)
