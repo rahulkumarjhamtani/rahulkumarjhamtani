@@ -13,7 +13,7 @@ I Improve Myself Everyday In Terms Of A Good Character And In Time Management Sk
 
 So Far I Have Learned C, C++, Python, PHP, SQL, HTML, CSS, JavaScript, Java etc.
 <br>
-Here's <a href="https://rahulkumarjhamtani.github.io/">My Portfolio</a>
+Here's <a href="https://rahulkumarjhamtani.github.io/" target="_blank"><b>My Portfolio</b></a>
 
 <br>
 
