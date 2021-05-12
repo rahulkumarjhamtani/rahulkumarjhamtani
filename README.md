@@ -56,7 +56,7 @@ Here's <a href="https://rahulkumarjhamtani.github.io/">My Portfolio</a>
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=rahulkumarjhamtani&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=rahulkumarjhamtani&color=blue)
 
 
 <h2>Thank You 😃 </h2> 
