@@ -58,7 +58,7 @@ Number of Organizations that I am Connected to Are:
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumarjhamtani&layout=compact)](https://github.com/rahulkumarjhamtani/rahulkumarjhamtani)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumarjhamtani&layout=compact&langs_count=10)](https://github.com/rahulkumarjhamtani/rahulkumarjhamtani)
 
 <br>
 
