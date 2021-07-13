@@ -34,17 +34,17 @@ Here's <a href="https://rahulkumarjhamtani.github.io/">My Portfolio</a>
 
 <hr>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rahulkumarjhamtani)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=rahulkumarjhamtani)](https://github.com/ryo-ma/github-profile-trophy)
 
 <hr>
 
 Number of Organizations that I am Connected to Are: 
 <br>
-[![orgs](https://orgstats-dtiqy7m68-himanshurajora.vercel.app/?username=rahulkumarjhamtani)
+![orgs](https://orgstats-dtiqy7m68-himanshurajora.vercel.app/?username=rahulkumarjhamtani)
 
 <hr>
 
-[![GitHub metrics](https://metrics.lecoq.io/rahulkumarjhamtani)](https://metrics.lecoq.io/rahulkumarjhamtani)  
+![GitHub metrics](https://metrics.lecoq.io/rahulkumarjhamtani)](https://metrics.lecoq.io/rahulkumarjhamtani)  
 
 <hr>
 
