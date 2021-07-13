@@ -16,7 +16,6 @@ So Far I Have Learned C, C++, Python, PHP, SQL, HTML, CSS, JavaScript, Java etc.
 <hr>
 Here's <a href="https://rahulkumarjhamtani.github.io/">My Portfolio</a>
 <hr>
-<br>
 
 ***Techs and tools I use :***
 
@@ -35,33 +34,33 @@ Here's <a href="https://rahulkumarjhamtani.github.io/">My Portfolio</a>
 
 <hr>
 
-<br>
+<hr>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rahulkumarjhamtani)](https://github.com/ryo-ma/github-profile-trophy)
 
-<br>
+<hr>
 
 Number of Organizations that I am Connected to Are: 
-<br>
+<hr>
 ![orgs](https://orgstats-dtiqy7m68-himanshurajora.vercel.app/?username=rahulkumarjhamtani)
 
-<br>
+<hr>
 
 [![GitHub metrics](https://metrics.lecoq.io/rahulkumarjhamtani)](https://metrics.lecoq.io/rahulkumarjhamtani)  
 
-<br>
+<hr>
 
 ![GitHub streak stats](https://github-readme-stats.vercel.app/api?username=rahulkumarjhamtani&show_icons=true&theme=radical)
 
-<br>
+<hr>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rahulkumarjhamtani)  
 
-<br>
+<hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumarjhamtani&layout=compact&langs_count=10)
 
-<br>
+<hr>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rahulkumarjhamtani&color=blue)
 
