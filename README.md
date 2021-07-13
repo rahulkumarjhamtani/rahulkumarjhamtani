@@ -39,8 +39,8 @@ Here's <a href="https://rahulkumarjhamtani.github.io/">My Portfolio</a>
 <hr>
 
 Number of Organizations that I am Connected to Are: 
-<hr>
-![orgs](https://orgstats-dtiqy7m68-himanshurajora.vercel.app/?username=rahulkumarjhamtani)
+<br>
+[![orgs](https://orgstats-dtiqy7m68-himanshurajora.vercel.app/?username=rahulkumarjhamtani)
 
 <hr>
 
