@@ -34,8 +34,6 @@ Here's <a href="https://rahulkumarjhamtani.github.io/">My Portfolio</a>
 
 <hr>
 
-<hr>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=rahulkumarjhamtani)](https://github.com/ryo-ma/github-profile-trophy)
 
 <hr>
@@ -58,7 +56,7 @@ Number of Organizations that I am Connected to Are:
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumarjhamtani&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumarjhamtani&layout=compact&langs_count=10)
 
 <hr>
 
