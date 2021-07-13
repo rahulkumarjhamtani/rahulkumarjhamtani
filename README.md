@@ -44,7 +44,7 @@ Number of Organizations that I am Connected to Are:
 
 <hr>
 
-![GitHub metrics](https://metrics.lecoq.io/rahulkumarjhamtani)](https://metrics.lecoq.io/rahulkumarjhamtani)  
+[![GitHub metrics](https://metrics.lecoq.io/rahulkumarjhamtani)](https://metrics.lecoq.io/rahulkumarjhamtani)  
 
 <hr>
 
