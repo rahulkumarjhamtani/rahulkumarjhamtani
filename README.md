@@ -34,7 +34,7 @@ Here's <a href="https://rahulkumarjhamtani.github.io/">My Portfolio</a>
 
 <hr>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=rahulkumarjhamtani)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rahulkumarjhamtani)](https://github.com/ryo-ma/github-profile-trophy)
 
 <hr>
 
