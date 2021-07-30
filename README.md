@@ -11,7 +11,7 @@ I want to work across the full stack of Software Development. I've built a few p
 I Improve Myself Everyday In Terms Of A Good Character And In Time Management Skills.
 <br>
 
-So Far I Have Learned C, C++, Python, PHP, SQL, HTML, CSS, JavaScript, Java etc.
+So Far I Have Learned C, C++, Python, PHP, SQL, HTML, CSS, JavaScript, Java, ReactJS etc.
 <br>
 <hr>
 Here's <a href="https://rahulkumarjhamtani.github.io/">My Portfolio</a>
