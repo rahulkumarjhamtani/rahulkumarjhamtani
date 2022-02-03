@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="./rahulgitbg-1.jpg" style="max-width:100%;" alt="Welcome to my Github Profile" />
+  <br/>
+  <br/>
+</div>
+
 ### Hi there 👋
 
 ### I Am Rahul Kumar Jhamtani
