@@ -8,13 +8,12 @@
 
 ### I Am Rahul Kumar Jhamtani
 
-#### Member Of Vedik Cyber Forces, A Team Of Enthusiastic Computer Science Engineers 
-#### I am pursuing Computer Science Engineering from <a href="https://anandice.ac.in">Anand International College Of Engineering</a> and I am interested in Web designing, Web development and Software development.
+#### Salesforce Developer & Web Developer
+#### a highly motivated Computer Science Engineer with a Bachelor of Technology degree from <a href="https://anandice.ac.in">Anand International College Of Engineering</a>. I have completed my Abroad Training program organized by Ajman University, UAE.
 
 <br>
 
-I want to work across the full stack of Software Development. I've built a few projects by myself and I'm looking for a role where I can grow and learn from other experienced team members and my friends.
-I Improve Myself Everyday In Terms Of A Good Character And In Time Management Skills.
+I am thriving as an Associate Software Developer at Cyntexa, a leading Salesforce Crest (Gold) Consulting Partner. In this role, I have gained extensive expertise in Salesforce development, having worked across three clouds: Sales Cloud, Vlocity Cloud, and Commerce Cloud. Leveraging my skills in Apex, APIs, Triggers, Salesforce Object Query Language, JavaScript, and Lightning Web Components, I have successfully developed and customized solutions to address complex challenges and enhance user experiences.
 <br>
 
 So Far I Have Learned C, C++, Python, PHP, SQL, HTML, CSS, JavaScript, Java, ReactJS etc.
