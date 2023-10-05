@@ -4,12 +4,12 @@
   <br/>
 </div>
 
-### Hi there 👋
+Hi there 👋
 
-### I Am Rahul Kumar Jhamtani
+I Am Rahul Kumar Jhamtani
 
-#### Salesforce Developer & Web Developer
-#### A highly motivated Computer Science Engineer with a Bachelor of Technology degree from <a href="https://anandice.ac.in">Anand International College Of Engineering</a>. I have completed my Abroad Training program organized by Ajman University, UAE.
+Salesforce Developer & Web Developer
+A highly motivated Computer Science Engineer with a Bachelor of Technology degree from <a href="https://anandice.ac.in">Anand International College Of Engineering</a>. I have completed my Abroad Training program organized by Ajman University, UAE.
 
 <br>
 
