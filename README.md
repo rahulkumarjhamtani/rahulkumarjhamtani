@@ -14,10 +14,10 @@ A highly motivated Computer Science Engineer with a Bachelor of Technology degre
 
 <br>
 
-I am thriving as an Associate Software Developer at Cyntexa, a leading Salesforce Crest (Gold) Consulting Partner. In this role, I have gained extensive expertise in Salesforce development, having worked across three clouds: Sales Cloud, Vlocity Cloud, and Commerce Cloud. Leveraging my skills in Apex, APIs, Triggers, Salesforce Object Query Language, JavaScript, and Lightning Web Components, I have successfully developed and customized solutions to address complex challenges and enhance user experiences.
+I am working as an Associate at PwC India. Before this, I worked as a Salesforce Developer at Cyntexa for 2 years and 9 months, from July 2022 to March 2025. I've taken part in several hackathons and enjoy working in teams on creative projects. I also won first prize in the Soft Tech Hack at my college, showing my ability to perform well in competitive settings.
 <br>
 
-So Far I Have Learned C, C++, Python, PHP, SQL, HTML, CSS, JavaScript, Java, ReactJS etc.
+Skills: Sales Cloud (SFDC), Apex, LWC, Salesforce Lightning, Asynchronous Apex, API Integrations, Aura, B2C Commerce Cloud (SFCC), Vlocity Cloud (Omnistudio), HTML, CSS, JS, SQL, Python, Agentforce.
 <br>
 <hr>
 Here's <a href="https://rahulkumarjhamtani.github.io/">My Portfolio</a>
